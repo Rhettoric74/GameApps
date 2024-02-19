@@ -1,5 +1,5 @@
 # GameApps
-This repository contains descriptions and links to games developed by Rhett Olson as assignments for **CSCI 4611: Interactive Computer Graphics and Games** at the University of Minnesota. The source code for these projects is not public due to academic integrity standards and will not be shared here. The graphics engine for these games is GopherGFX, created by [Evan Suma Rosenberg](https://illusioneering.umn.edu/).
+This repository contains descriptions and links to games and apps developed by Rhett Olson as assignments for **CSCI 4611: Interactive Computer Graphics and Games** at the University of Minnesota. The source code for these projects is not public due to academic integrity standards and will not be shared here. The graphics engine for these games is GopherGFX, created by [Evan Suma Rosenberg](https://illusioneering.umn.edu/).
 
 ## License
 
